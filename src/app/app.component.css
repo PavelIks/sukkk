@@ -1,0 +1,13 @@
+div
+{
+    color: red;
+}
+.isdaystyle
+{
+    color: wheat;
+    background-color:black;
+}
+:host
+{
+    color: green;
+}

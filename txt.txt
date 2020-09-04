@@ -1,0 +1,10 @@
+/*npm i npm-upgrade*/
+/*npm cache clean -f*/
+
+Нужны файлы "angular.json", "tsconfig.json", "package.json"
+/*npm install -g @angular/cli*/
+cd C:\Users\Pavlo\Desktop\helloapp
+npm install
+ng serve --open (дома) / npm start (не дома...)
+
+После этого можно просто: ng serve --open (дома) / npm start (не дома...)
